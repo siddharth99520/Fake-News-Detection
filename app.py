@@ -2,14 +2,15 @@ import streamlit as st
 import joblib
 import nltk
 import re
-import os
 
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-# Add local NLTK data path (for deployment)
-nltk.data.path.append('./')
+# Download necessary NLTK data
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 # Load model and vectorizer
 model = joblib.load("fake_news_model.pkl")
