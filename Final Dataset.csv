@@ -1,0 +1,410 @@
+id,title,author,text,label
+1,Breaking: President announces new healthcare policy,John Doe,The President announced a comprehensive healthcare reform aimed at improving coverage.,1
+2,Miracle cure discovered by local teen shocks doctors,Unknown,A local teenager claims to have found a miracle cure using household ingredients.,0
+3,NASA confirms water on Mars in new research,NASA Team,NASA's recent study provides new evidence of liquid water on the surface of Mars.,1
+4,You won't believe what this celebrity did!,Fake Buzz,A popular celebrity was seen doing something totally outrageous!,0
+5,Local scientist invents free energy generator,Anon Source,A scientist in his garage claims he built a free energy generator defying physics.,0
+6,Elections postponed due to natural disaster,Jane Smith,"Due to ongoing floods, the national elections have been delayed by two months.",1
+7,Click this link to claim your free iPhone!,ClickDaily,Click here to participate in the iPhone giveaway. Limited time only!,0
+8,Researchers publish results on cancer vaccine trial,Health Today,Positive results have been published on a new cancer vaccine tested in Europe.,1
+9,This trick will make you millions overnight!,Rich Guru,Learn how to earn millions from home using this simple life hack!,0
+10,Government launches nationwide clean water program,Official News,A new government initiative aims to provide clean drinking water to all citizens.,1
+11,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+12,Tech company releases groundbreaking AI tool,NASA Team,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+13,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+14,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+15,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+16,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+17,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+18,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+19,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+20,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+21,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+22,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+23,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+24,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+25,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+26,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+27,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+28,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+29,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+30,Government passes new environmental policy,John Doe,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+31,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+32,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+33,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+34,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+35,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+36,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+37,Man claims to time travel using toaster,Viral Hoax,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+38,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+39,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+40,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+41,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+42,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+43,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+44,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+45,Healthcare reform bill signed into law,NASA Team,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+46,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+47,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+48,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+49,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+50,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+51,Man claims to time travel using toaster,Viral Hoax,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+52,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+53,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+54,Government passes new environmental policy,NASA Team,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+55,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+56,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+57,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+58,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+59,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+60,Tech company releases groundbreaking AI tool,Jane Smith,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+61,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+62,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+63,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+64,Ancient pyramid found on Mars,Clickbait Media,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+65,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+66,Tech company releases groundbreaking AI tool,NASA Team,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+67,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+68,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+69,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+70,Scientists discover new species in Amazon rainforest,NASA Team,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+71,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+72,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+73,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+74,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+75,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+76,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+77,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+78,Healthcare reform bill signed into law,NASA Team,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+79,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+80,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+81,Man claims to time travel using toaster,Clickbait Media,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+82,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+83,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+84,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+85,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+86,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+87,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+88,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+89,Government passes new environmental policy,NASA Team,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+90,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+91,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+92,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+93,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+94,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+95,Tech company releases groundbreaking AI tool,Jane Smith,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+96,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+97,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+98,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+99,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+100,Healthcare reform bill signed into law,Health Dept.,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+101,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+102,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+103,Scientists discover new species in Amazon rainforest,NASA Team,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+104,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+105,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+106,Miracle cure found for all diseases,Anon Source,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+107,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+108,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+109,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+110,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+111,Tech company releases groundbreaking AI tool,Health Dept.,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+112,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+113,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+114,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+115,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+116,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+117,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+118,Ancient pyramid found on Mars,Viral Hoax,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+119,You won't believe what this celebrity did!,Unknown,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+120,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+121,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+122,Man claims to time travel using toaster,Clickbait Media,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+123,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+124,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+125,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+126,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+127,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+128,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+129,You won't believe what this celebrity did!,Unknown,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+130,Tech company releases groundbreaking AI tool,Health Dept.,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+131,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+132,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+133,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+134,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+135,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+136,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+137,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+138,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+139,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+140,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+141,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+142,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+143,Healthcare reform bill signed into law,NASA Team,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+144,Government passes new environmental policy,NASA Team,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+145,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+146,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+147,Healthcare reform bill signed into law,Health Dept.,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+148,Man claims to time travel using toaster,Anon Source,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+149,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+150,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+151,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+152,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+153,Tech company releases groundbreaking AI tool,NASA Team,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+154,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+155,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+156,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+157,Man claims to time travel using toaster,Clickbait Media,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+158,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+159,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+160,Tech company releases groundbreaking AI tool,Health Dept.,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+161,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+162,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+163,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+164,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+165,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+166,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+167,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+168,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+169,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+170,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+171,You won't believe what this celebrity did!,Unknown,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+172,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+173,Scientists discover new species in Amazon rainforest,Health Dept.,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+174,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+175,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+176,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+177,Government passes new environmental policy,Jane Smith,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+178,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+179,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+180,Tech company releases groundbreaking AI tool,NASA Team,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+181,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+182,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+183,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+184,Healthcare reform bill signed into law,NASA Team,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+185,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+186,Government passes new environmental policy,Jane Smith,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+187,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+188,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+189,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+190,Government passes new environmental policy,Jane Smith,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+191,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+192,Ancient pyramid found on Mars,Clickbait Media,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+193,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+194,Healthcare reform bill signed into law,Health Dept.,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+195,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+196,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+197,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+198,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+199,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+200,Tech company releases groundbreaking AI tool,NASA Team,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+201,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+202,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+203,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+204,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+205,Ancient pyramid found on Mars,Viral Hoax,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+206,Scientists discover new species in Amazon rainforest,NASA Team,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+207,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+208,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+209,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+210,Ancient pyramid found on Mars,Clickbait Media,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+211,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+212,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+213,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+214,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+215,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+216,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+217,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+218,Healthcare reform bill signed into law,NASA Team,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+219,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+220,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+221,Man claims to time travel using toaster,Viral Hoax,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+222,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+223,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+224,Tech company releases groundbreaking AI tool,Health Dept.,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+225,Healthcare reform bill signed into law,Health Dept.,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+226,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+227,Miracle cure found for all diseases,Anon Source,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+228,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+229,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+230,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+231,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+232,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+233,Tech company releases groundbreaking AI tool,NASA Team,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+234,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+235,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+236,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+237,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+238,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+239,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+240,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+241,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+242,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+243,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+244,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+245,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+246,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+247,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+248,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+249,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+250,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+251,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+252,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+253,Man claims to time travel using toaster,Clickbait Media,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+254,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+255,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+256,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+257,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+258,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+259,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+260,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+261,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+262,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+263,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+264,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+265,Tech company releases groundbreaking AI tool,Jane Smith,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+266,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+267,Ancient pyramid found on Mars,Viral Hoax,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+268,You won't believe what this celebrity did!,Unknown,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+269,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+270,Ancient pyramid found on Mars,Clickbait Media,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+271,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+272,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+273,Man claims to time travel using toaster,Clickbait Media,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+274,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+275,Scientists discover new species in Amazon rainforest,NASA Team,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+276,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+277,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+278,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+279,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+280,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+281,Government passes new environmental policy,John Doe,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+282,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+283,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+284,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+285,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+286,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+287,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+288,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+289,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+290,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+291,Scientists discover new species in Amazon rainforest,Health Dept.,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+292,Ancient pyramid found on Mars,Viral Hoax,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+293,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+294,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+295,Government passes new environmental policy,BBC News,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+296,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+297,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+298,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+299,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+300,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+301,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+302,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+303,Secret alien base discovered under the ocean,Viral Hoax,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+304,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+305,Ancient pyramid found on Mars,Anon Source,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+306,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+307,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+308,You won't believe what this celebrity did!,Unknown,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+309,Man claims to time travel using toaster,Anon Source,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+310,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+311,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+312,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+313,Tech company releases groundbreaking AI tool,John Doe,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+314,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+315,Ancient pyramid found on Mars,Viral Hoax,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+316,Scientists discover new species in Amazon rainforest,NASA Team,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+317,Ancient pyramid found on Mars,Viral Hoax,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+318,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+319,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+320,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+321,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+322,Healthcare reform bill signed into law,NASA Team,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+323,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+324,Historic peace agreement reached between nations,Jane Smith,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+325,Man claims to time travel using toaster,Anon Source,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+326,Historic peace agreement reached between nations,NASA Team,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+327,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+328,Secret alien base discovered under the ocean,Clickbait Media,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+329,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+330,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+331,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+332,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+333,Historic peace agreement reached between nations,Health Dept.,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+334,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+335,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+336,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+337,Man claims to time travel using toaster,Anon Source,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+338,Miracle cure found for all diseases,Unknown,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+339,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+340,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+341,Miracle cure found for all diseases,Viral Hoax,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+342,Scientists discover new species in Amazon rainforest,NASA Team,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+343,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+344,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+345,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+346,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+347,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+348,Ancient pyramid found on Mars,Unknown,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+349,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+350,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+351,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+352,Scientists discover new species in Amazon rainforest,Health Dept.,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+353,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+354,Scientists discover new species in Amazon rainforest,Jane Smith,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+355,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+356,Man claims to time travel using toaster,Fake Buzz,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+357,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+358,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+359,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+360,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+361,Miracle cure found for all diseases,Fake Buzz,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+362,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+363,Historic peace agreement reached between nations,John Doe,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+364,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+365,Man claims to time travel using toaster,Unknown,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+366,Man claims to time travel using toaster,Anon Source,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+367,You won't believe what this celebrity did!,Viral Hoax,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+368,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+369,You won't believe what this celebrity did!,Fake Buzz,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+370,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+371,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+372,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+373,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+374,Ancient pyramid found on Mars,Clickbait Media,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+375,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+376,Man claims to time travel using toaster,Viral Hoax,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+377,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+378,Healthcare reform bill signed into law,Health Dept.,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+379,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+380,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+381,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+382,Tech company releases groundbreaking AI tool,BBC News,Tech company releases groundbreaking AI tool - Details: This is a real news article with verified information.,1
+383,Ancient pyramid found on Mars,Fake Buzz,Ancient pyramid found on Mars - Details: This claim is unverified and likely to be fake.,0
+384,Historic peace agreement reached between nations,BBC News,Historic peace agreement reached between nations - Details: This is a real news article with verified information.,1
+385,Healthcare reform bill signed into law,John Doe,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+386,You won't believe what this celebrity did!,Clickbait Media,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+387,Secret alien base discovered under the ocean,Anon Source,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+388,Scientists discover new species in Amazon rainforest,BBC News,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+389,You won't believe what this celebrity did!,Unknown,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+390,Healthcare reform bill signed into law,Jane Smith,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+391,Man claims to time travel using toaster,Viral Hoax,Man claims to time travel using toaster - Details: This claim is unverified and likely to be fake.,0
+392,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+393,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+394,Healthcare reform bill signed into law,BBC News,Healthcare reform bill signed into law - Details: This is a real news article with verified information.,1
+395,Secret alien base discovered under the ocean,Fake Buzz,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+396,Government passes new environmental policy,Health Dept.,Government passes new environmental policy - Details: This is a real news article with verified information.,1
+397,Scientists discover new species in Amazon rainforest,John Doe,Scientists discover new species in Amazon rainforest - Details: This is a real news article with verified information.,1
+398,Miracle cure found for all diseases,Clickbait Media,Miracle cure found for all diseases - Details: This claim is unverified and likely to be fake.,0
+399,You won't believe what this celebrity did!,Anon Source,You won't believe what this celebrity did! - Details: This claim is unverified and likely to be fake.,0
+400,Secret alien base discovered under the ocean,Unknown,Secret alien base discovered under the ocean - Details: This claim is unverified and likely to be fake.,0
+401,Health Ministry Announces Vaccination Program,,The Ministry of Health announced a new vaccination program targeting rural areas. The plan includes mobile clinics and free immunization for children under the age of five.,1
+402,Miracle Toothpaste Grows Hair Overnight,,A toothpaste brand went viral claiming their product could regrow hair overnight. Dermatologists quickly debunked the advertisement as false and misleading.,0
+403,Aliens Spotted Over Statue of Liberty,,"A mysterious light appeared over the Statue of Liberty last night. Social media users claim it was an alien spaceship, although no official report has confirmed this.",0
+404,Black Tea Reverses Aging Claims Blog,,A blog post claims that drinking three cups of black tea before sleep can reverse aging. The post has no supporting peer-reviewed research and was flagged as misinformation.,0
+405,Seaweed-Based Plastic Could Save Oceans,,Researchers in Japan have developed a new biodegradable packaging material made from seaweed. The innovation is expected to reduce plastic waste in oceans significantly.,1
+406,TikTok Influencer Predicts Dreams With Phone,,A TikTok influencer claims that sleeping with your phone under your pillow allows the government to send messages into your dreams. No scientific basis exists for this claim.,0
+407,"ISS Completes 100,000th Orbit Milestone",,"The International Space Station has completed its 100,000th orbit around Earth, marking a historic milestone in human space exploration, according to NASA.",1
+408,Pet Psychic Talks to Dogs With Crystal Collar,,"A self-proclaimed pet psychic went viral claiming she could talk to dogs using a crystal collar. Experts dismissed it as a hoax, calling it pseudoscience.",0
+409,Global Literacy Rates Reach Record High,,"A recent UN report shows global literacy rates have reached an all-time high, particularly in developing countries due to increased access to digital education tools.",1
