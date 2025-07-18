@@ -3,24 +3,19 @@ import joblib
 import nltk
 import re
 import os
+
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
-# Make sure NLTK data path includes local directory
-nltk_data_dir = os.path.join(os.path.dirname(__file__), "nltk_data")
-nltk.data.path.append(nltk_data_dir)
-
-# Download required NLTK resources (if not already downloaded)
-nltk.download('punkt', download_dir=nltk_data_dir)
-nltk.download('wordnet', download_dir=nltk_data_dir)
-nltk.download('stopwords', download_dir=nltk_data_dir)
+# Add local NLTK data path (for deployment)
+nltk.data.path.append('./')
 
 # Load model and vectorizer
 model = joblib.load("fake_news_model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
 
-# Preprocessing function
+# Preprocessing setup
 lemmatizer = WordNetLemmatizer()
 stop_words = set(stopwords.words('english'))
 
